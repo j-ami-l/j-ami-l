@@ -1,6 +1,5 @@
 # 💫
-Hi, I'm Jamil
-
+Hi! I’m Md Hasan Jamil, a passionate Computer Science student and an aspiring React & Full-Stack Developer. I love building clean, responsive web applications and exploring modern technologies like Next.js, MongoDB, and TypeScript.
 
 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-hasan-jamil-293506308) 
