@@ -1,4 +1,6 @@
-# 💫
+
+# 💫<img width="486" height="190" alt="Black Minimalist Motivation Quote LinkedIn Banner" src="https://github.com/user-attachments/assets/2329d2f8-4d49-4b1c-9167-3c30e81f5fd7" />
+
 Hi! I’m Md Hasan Jamil, a passionate Computer Science student and an aspiring React & Full-Stack Developer. I love building clean, responsive web applications and exploring modern technologies like Next.js, MongoDB, and TypeScript.
 
 Socials:
